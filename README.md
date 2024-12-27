@@ -1,9 +1,9 @@
 create some pattern using for loops, pattern,
 
-A P Q R 
+A   P   Q   R 
 
-A B P Q 
+A   B   P   Q 
 
-A B C P 
+A   B   C   P 
 
-A B C D 
+A   B   C   D 
